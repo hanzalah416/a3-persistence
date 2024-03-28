@@ -1,6 +1,6 @@
 {
-  "name": "a2-shortstack",
-  "description": "Assignment 2 - Car Table Website: Basic Two-tier Web Application using HTML/CSS/JS and Node.js   ===",
+  "name": "a3-persistence",
+  "description": "Assignment  - Car Table Website: Basic full stack app using MongoDB, NodeJS, and ",
   "author": "Hanzalah Qamar",
   "scripts": {
     "start": "node server.improved.js"
@@ -14,8 +14,8 @@
     "ejs": "^3.1.9",
     "express": "^4.19.2",
     "express-session": "^1.18.0",
-    "http": "^0.0.1-security",
-    "mime": "^2.6.0",
+    "http": "^0.0.0",
+    "mime": "^4.0.1",
     "mongodb": "^6.5.0",
     "passport": "^0.7.0",
     "passport-github": "^1.1.0",
@@ -24,7 +24,7 @@
   "version": "1.0.0",
   "main": "server.improved.js",
   "engines": {
-    "node": "20.x"
+    "node": "16.20.1"
   },
   "keywords": [],
   "license": "ISC"
